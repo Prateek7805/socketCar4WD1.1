@@ -1,4 +1,4 @@
-# socketCar4WD1.1 : Newer version of the 4WD scoket car
+# socketCar4WD1.1 : Newer version of the 4WD socket car
 pinOut
 ESP GPIO     TB66FNG
   5             PWMA
