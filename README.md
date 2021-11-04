@@ -11,7 +11,7 @@
 | 16        | BI2      |
 
 ### [ Working ](https://www.instagram.com/p/CQ3aksKFHEA/) ###
-### [ Web Interaface settings ](https://www.instagram.com/p/CQ3aksKFHEA/) ###
+### [ Web Interaface settings ](https://www.instagram.com/p/CQ4HKgvJiCh/) ###
   
 ### Pinout ###
 <img src="https://raw.githubusercontent.com/Prateek7805/socketCar4WD1.1/main/pinout.JPG" width='250' height='auto'/>
