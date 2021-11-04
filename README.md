@@ -9,6 +9,8 @@
 | 13        | AI2      |
 | 14        | BI1      |
 | 16        | BI2      |
+
+### [ Demo ](https://www.instagram.com/p/CQ3aksKFHEA/) ###
   
 ### Pinout ###
 <img src="https://raw.githubusercontent.com/Prateek7805/socketCar4WD1.1/main/pinout.JPG" width='250' height='auto'/>
