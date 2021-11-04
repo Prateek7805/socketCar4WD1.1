@@ -1,6 +1,6 @@
 # Socket Car 4WD 1.1 : Newer version of the 4WD socket car #
  
-### ESP12 to TB6612FNG (Motor Driver) connections ###
+### ESP12 to TB6612FNG (Motor Driver) connections: ###
 #### ESP GPIO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TB66FNG  ####
   5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PWMA  
   4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PWMB  
